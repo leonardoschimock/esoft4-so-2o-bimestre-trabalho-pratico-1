@@ -6,18 +6,18 @@ O projeto reúne cinco simulações e uma questão bônus sobre gerenciamento de
 
 ## Índice
 - [Integrantes](#integrantes)
-- [Estrutura do Repositório](#estrutura-do-repositorio)
-- [Resumo das Questões](#resumo-das-questoes)
-- [Pré Requisitos](#pre-requisitos)
+- [Estrutura do Repositório](#estrutura-do-repositório)
+- [Resumo das Questões](#resumo-das-questões)
+- [Pré Requisitos](#pré-requisitos)
 - [Como Executar](#como-executar)
-- [Questão 01](#questao-01)
-- [Questão 02](#questao-02)
-- [Questão 03](#questao-03)
-- [Questão 04](#questao-04)
-- [Questão 05](#questao-05)
-- [Bonus](#bonus)
-- [Compilação Rápida e Otimizada](#compilacao-rapida-e-otimizada)
-- [Referencias](#referencias-principais)
+- [Questão 01](#questão-01)
+- [Questão 02](#questão-02)
+- [Questão 03](#questão-03)
+- [Questão 04](#questão-04)
+- [Questão 05](#questão-05)
+- [Bonus](#bônus)
+- [Compilação Rápida e Otimizada](#compilação-rápida-e-otimizada)
+- [Referências](#referências-principais)
 
 
 ## Integrantes

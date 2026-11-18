@@ -4,6 +4,22 @@ Trabalho prático da disciplina de **Sistemas Operacionais** — Engenharia de S
 
 O projeto reúne cinco simulações e uma questão bônus sobre gerenciamento de memória: alocação estática e dinâmica, fragmentação, substituição de páginas (FIFO e LRU), coleta de lixo em Python e desempenho de pilha (*stack*) versus *heap*. O relatório completo, com fundamentação teórica, resultados e análises, está em `docs/`.
 
+## Índice
+- [Integrantes](##Integrantes)
+- [Estrutura do Repositório](##Estrutura-do-Repositório)
+- [Resumo das Questões](##Resumo-das-questões)
+- [Pré Requisitos](##Pré-Requisitos)
+- [Como Executar](##Como-Executar)
+- [Questão 01](###Questão-01)
+- [Questão 02](###Questão-02)
+- [Questão 03](###Questão-03)
+- [Questão 04](###Questão-04)
+- [Questão 05](###Questão-05)
+- [Bonus](###Bonus)
+- [Compilação Rápida e Otimizada](##Compilação-Rapida-e-Otimizada)
+- [Referencias](##Referencias-principais)
+
+
 ## Integrantes
 
 | Nome | RA |
@@ -26,7 +42,7 @@ trabalho-pratico-sistemas-operacionais/
 ├── questao4/   GarbageCollection.py
 ├── questao5/   ComparacaoDesempenhoAlocacao.c
 ├── bonus/      QBonus.java
-├── docs/       relatório do trabalho (PDF)
+├── docs/       trabalho-sistemas-operacionais.pdf
 └── README.md
 ```
 
@@ -132,6 +148,13 @@ Entrada de teste: **3** frames e a sequência `7, 0, 1, 2, 0, 3, 0, 4, 2, 3, 0, 
 | Taxa de faltas | 76,92% | 69,23% |
 
 Nesta sequência o LRU teve uma falta a menos, mas um único teste curto não permite concluir que ele é sempre superior; a análise completa está no relatório.
+
+## Compilação Rápida e Otimizada
+[Códigos Java - FIFO e LRU](https://onlinegdb.com/PNa4kTfy1a)<br>
+[Garbage Collection](https://onlinegdb.com/y83lxOuYU)<br>
+[Fragmentação de Memória](https://onlinegdb.com/lSzf_fNvw)<br>
+[Alocação Dinâmica e Estática](https://onlinegdb.com/MyFS6ISA4O)<br>
+[Pilha x Heap](https://onlinegdb.com/bR0QkMYYkO)<br>
 
 ## Referências principais
 

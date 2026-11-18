@@ -5,19 +5,19 @@ Trabalho prático da disciplina de **Sistemas Operacionais** — Engenharia de S
 O projeto reúne cinco simulações e uma questão bônus sobre gerenciamento de memória: alocação estática e dinâmica, fragmentação, substituição de páginas (FIFO e LRU), coleta de lixo em Python e desempenho de pilha (*stack*) versus *heap*. O relatório completo, com fundamentação teórica, resultados e análises, está em `docs/`.
 
 ## Índice
-- [Integrantes](##Integrantes)
-- [Estrutura do Repositório](##Estrutura-do-Repositório)
-- [Resumo das Questões](##Resumo-das-questões)
-- [Pré Requisitos](##Pré-Requisitos)
-- [Como Executar](##Como-Executar)
-- [Questão 01](###Questão-01)
-- [Questão 02](###Questão-02)
-- [Questão 03](###Questão-03)
-- [Questão 04](###Questão-04)
-- [Questão 05](###Questão-05)
-- [Bonus](###Bonus)
-- [Compilação Rápida e Otimizada](##Compilação-Rapida-e-Otimizada)
-- [Referencias](##Referencias-principais)
+- [Integrantes](#integrantes)
+- [Estrutura do Repositório](#estrutura-do-repositorio)
+- [Resumo das Questões](#resumo-das-questoes)
+- [Pré Requisitos](#pre-requisitos)
+- [Como Executar](#como-executar)
+- [Questão 01](#questao-01)
+- [Questão 02](#questao-02)
+- [Questão 03](#questao-03)
+- [Questão 04](#questao-04)
+- [Questão 05](#questao-05)
+- [Bonus](#bonus)
+- [Compilação Rápida e Otimizada](#compilacao-rapida-e-otimizada)
+- [Referencias](#referencias-principais)
 
 
 ## Integrantes
